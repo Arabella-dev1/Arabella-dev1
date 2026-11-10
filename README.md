@@ -1,4 +1,4 @@
-Hi! 👋
+## Hi! 👋
 
 I'm still learning software development, so for now I'm helping to translate and document open source projects.
 
